@@ -1,0 +1,18 @@
+
+            #footer .footer_widgets .widget.widget_mc4wp_form_widget form.mc4wp-form .stm_newsletter_form label {
+                position: absolute;
+                right: 0;
+                top: 0;
+                border: none;
+                width: 40px;
+                height: 35px;
+                line-height: 40px;
+                padding: 0;
+                cursor: pointer;
+                text-align: center;
+                font-size: 13px;
+                color: #002e5b;
+                outline: 0!important;
+                transition: color .3s ease;
+                background: #fde428;
+            }
